@@ -98,8 +98,14 @@ I read everything. I am one person, so a reply may take a few days.
 
 <div align="center">
 
-![metiu1 stats](https://github-readme-stats.vercel.app/api?username=metiu1&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metiu1&layout=compact&theme=dark&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=metiu1&theme=github_dark">
+  <img alt="metiu1 stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=metiu1&theme=github">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=metiu1&theme=github_dark">
+  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=metiu1&theme=github">
+</picture>
 
 </div>
 
