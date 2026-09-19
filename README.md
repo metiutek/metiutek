@@ -6,11 +6,11 @@
 
 Hi 👋 I build open-source AI tools that run on your own machine — no cloud, no API keys, no subscription.
 
-[![Website](https://img.shields.io/badge/metiu.vercel.app-Website-111111?style=flat-square&logo=vercel&logoColor=white)](https://metiu.vercel.app)
+[![Website](https://img.shields.io/badge/metiu.xyz-Website-111111?style=flat-square)](https://metiu.xyz)
 [![GitHub followers](https://img.shields.io/github/followers/metiutek?style=flat-square&label=Follow&color=black)](https://github.com/metiutek?tab=followers)
 [![YouTube](https://img.shields.io/badge/MetiuTek-YouTube-red?style=flat-square&logo=youtube)](https://youtube.com/@metiu-tek)
 
-**[metiu.vercel.app](https://metiu.vercel.app)** — projects, contact form, and a place to pitch me an idea.
+**[metiu.xyz](https://metiu.xyz)** — projects, contact form, and a place to pitch me an idea.
 
 </div>
 
@@ -81,7 +81,7 @@ A normal video editor — timeline, clips, cuts, transitions — except an AI ca
 
 ## Get in touch
 
-Everything you need to reach me is on **[metiu.vercel.app](https://metiu.vercel.app)**.
+Everything you need to reach me is on **[metiu.xyz](https://metiu.xyz)**.
 
 - **Got an idea?** There is a *Pitch me something* form on the site — describe what you
 have in mind and it lands straight in my inbox. Half-formed ideas are welcome; that is
@@ -113,6 +113,6 @@ I read everything. I am one person, so a reply may take a few days.
 
 <div align="center">
 
-[Website](https://metiu.vercel.app) · [GitHub](https://github.com/metiutek) · [YouTube @MetiuTek](https://youtube.com/@metiu-tek)
+[Website](https://metiu.xyz) · [GitHub](https://github.com/metiutek) · [YouTube @MetiuTek](https://youtube.com/@metiu-tek)
 
 </div>
