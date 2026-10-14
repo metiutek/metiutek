@@ -119,3 +119,7 @@ I read everything. I am one person, so a reply may take a few days.
 [Website](https://metiu.xyz) · [Email](mailto:hello@metiu.xyz) · [GitHub](https://github.com/metiutek) · [YouTube @MetiuTek](https://youtube.com/@metiu-tek)
 
 </div>
+
+---
+
+made by https://metiu.xyz/
